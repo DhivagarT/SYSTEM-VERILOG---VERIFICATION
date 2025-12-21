@@ -6,7 +6,7 @@ class transact;
   bit carry;
   
   function void display(string name);
-    $display(name);
+    $display("%0s",name);
   $display("Time=%0t A=%0d B=%0d C=%0d Sum=%0d Carry=%0d ",
           $time,a,b,c,sum,carry);
   endfunction
