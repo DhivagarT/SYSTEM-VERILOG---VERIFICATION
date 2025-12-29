@@ -1,4 +1,4 @@
-# KERNEL: ----Generator Class----
+# KERNEL: ----Generator Class---
 # KERNEL: Time=0  Rst=0 D=1 Q=0
 # KERNEL: ----Generator Class----
 # KERNEL: Time=0  Rst=1 D=0 Q=0
