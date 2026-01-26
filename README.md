@@ -1,1 +1,1 @@
-This Repositry Coontains my function verification practice codes
+This Repositry Contains my function verification practice codes
