@@ -5,7 +5,8 @@ module testbench;
   
   intf intff();
   test t(intff);
-  
+
+  //DUT INSTANTIATION
   synchronous_fifo #(.WIDTH(intff.WIDTH),
                      .DEPTH(intff.DEPTH))
                     DUT(.clk(intff.clk),
